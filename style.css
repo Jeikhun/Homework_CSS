@@ -1,0 +1,17 @@
+table {
+    border-top: solid 3px gray;
+    border-left: solid 3px gray;
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
+    padding: 4px;
+    border-collapse: separate;
+    border-spacing: 8px;
+}
+table tr td{
+    padding: 8px;
+}
+table thead {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
